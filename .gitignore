@@ -131,3 +131,6 @@ dist
 
 # public folder
 public/
+
+# source folder
+source/
