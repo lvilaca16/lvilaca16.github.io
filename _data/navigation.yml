@@ -1,22 +1,21 @@
 # main links links
 main:
+  - title: "Education"
+    url: /education/
+    share: false
+
+  - title: "Experience"
+    url: /experience/
+    share: false
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    share: false
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /teaching/
+    share: false
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    share: false
